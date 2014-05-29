@@ -1,0 +1,8 @@
+/* Links formatting */
+a {
+    color:black;
+    font-family:Arial Black, sans-serif;
+}
+.basic {
+    border:solid 2px blue;
+}
