@@ -3,6 +3,14 @@ a {
     color:black;
     font-family:Arial Black, sans-serif;
 }
+/* Table formatting */
 .basic {
     border:solid 2px blue;
+    width:850px;
+    text-align:left;
+}
+
+/* alignment stuff */
+body {
+    width:850px;
 }
