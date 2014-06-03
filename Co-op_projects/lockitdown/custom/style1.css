@@ -1,22 +1,4 @@
-#autocomplete {
-    border:1px solid;
-    overflow:hidden;
-    position:absolute;
-    z-index:100;
-}
-#autocomplete ul {
-    list-style:none;
-    list-style-image:none;
-    margin:0;
-    padding:0;
-}
-#autocomplete li {
-    background:#fff;
-    color:#000;
-    cursor:default;
-    white-space:pre;
-    zoom:1;
-}
+
 html.js input.form-autocomplete {
     background-image:url(/misc/throbber.gif);
     background-position:100% 2px;
