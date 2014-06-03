@@ -29,6 +29,7 @@ input[disabled], select[disabled], textarea[disabled], button[disabled] {
     position:absolute;
     z-index:1000;
     left:37.5em;
+    width:8.5em;
     text-align:center;
     background:#fff;
 }
@@ -321,8 +322,8 @@ div#calendar_block {
 }
 body {
     margin:0 auto;
-    width:83.5em;
-    min-width:1000px;
+    /*width:83.5em;
+    min-width:1000px;*/
     font-family:arial, helvetica, sans-serif;
     font-size:.75em;
 }
