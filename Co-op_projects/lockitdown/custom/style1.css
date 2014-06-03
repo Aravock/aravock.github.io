@@ -69,7 +69,7 @@ html.js .js-hide {
 }
 @media only screen and(-webkit-min-device-pixel-ratio:2), only screen and(min-resolution:2dppx) {
     #uw-footer .social-media li a {
-        background:url(/profiles/uw_base_profile/modules/features/uw_nav_global_footer/images/social-media-directory-2x.png) no-repeat left top;
+        background:url(https://uwaterloo.ca/profiles/uw_base_profile/modules/features/uw_nav_global_footer/images/social-media-directory-2x.png) no-repeat left top;
         background-size:111px 53px;
     }
 }
