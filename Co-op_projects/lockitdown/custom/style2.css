@@ -322,7 +322,7 @@ div#calendar_block {
 }
 body {
     margin:0 auto;
-    text-align:center;
+    width:83.5em;
     font-family:arial, helvetica, sans-serif;
     font-size:.75em;
 }
