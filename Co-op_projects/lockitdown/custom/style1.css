@@ -1,13 +1,8 @@
 /* comment */ 
 
-div.indentation {
-    float:left;
-    height:1.7em;
-    margin:-0.4em 0.2em -0.4em -0.4em;
-    padding:0.42em 0 0.42em 0.6em;
-    width:20px;
-}
+
 
 html.js .js-hide {
     display:none;
 }
+.element-hidden{display:none;}
