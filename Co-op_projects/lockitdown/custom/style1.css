@@ -65,7 +65,7 @@ html.js .js-hide {
     border:solid 1px #000;
     text-indent:-999em;
     overflow:hidden;
-    background:url(/profiles/uw_base_profile/modules/features/uw_nav_global_footer/images/social-media-directory.png) no-repeat left top;
+    background:url(https://uwaterloo.ca/profiles/uw_base_profile/modules/features/uw_nav_global_footer/images/social-media-directory-2x.png) no-repeat left top;
 }
 @media only screen and(-webkit-min-device-pixel-ratio:2), only screen and(min-resolution:2dppx) {
     #uw-footer .social-media li a {
