@@ -1,14 +1,5 @@
 /* comment */ 
 
-
-
-fieldset.collapsible {
-    position:relative;
-}
-fieldset.collapsible .fieldset-legend {
-    display:block;
-}
-
 div.indentation {
     float:left;
     height:1.7em;
