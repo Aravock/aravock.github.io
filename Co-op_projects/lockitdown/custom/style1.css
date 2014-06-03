@@ -26,6 +26,7 @@ html.js .js-hide {
     overflow:visible;
     height:auto;
 }
+/*
 .clearfix:after {
     content:".";
     display:block;
@@ -34,7 +35,6 @@ html.js .js-hide {
     visibility:hidden;
 }
 
-/*
 * html .clearfix {
     height:1%;
 }
