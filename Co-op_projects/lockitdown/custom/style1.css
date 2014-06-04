@@ -24,15 +24,14 @@ html.js .js-hide {
 /* Aligns footer to the right (clumsy)*/
 #header {
     width:25em;
-    height:60px;
-    border:1px dashed red;
+    height:100px;
+    background-color:black;
     margin-right:10px;
     float:left;
 }
 #container{
     width:93.75%;
     height:100px;
-    border:1px solid red;
     margin-right:10px;
     float:left;
 }
