@@ -20,3 +20,17 @@ html.js .js-hide {
     color:#fff;
     line-height:1.5em;
 }
+
+/* Aligns footer to the right (clumsy)*/
+#header, #container{
+    width:100px;
+    height:100px;
+    border:1px solid red;
+    margin-right:10px;
+    float:left;
+}
+
+.child{
+    float:left;
+    margin-right:5px;
+}
