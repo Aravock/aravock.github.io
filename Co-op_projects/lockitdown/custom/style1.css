@@ -23,7 +23,7 @@ html.js .js-hide {
 
 /* Aligns footer to the right (clumsy)*/
 #header, #container {
-    width:50em;
+    width:25em;
     height:100px;
     background-color:black;
     float:left;
