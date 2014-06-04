@@ -22,19 +22,13 @@ html.js .js-hide {
 }
 
 /* Aligns footer to the right (clumsy)*/
-#header {
-    width:25em;
+#header, #container {
+    width:50em;
     height:100px;
     background-color:black;
-    margin-right:10px;
     float:left;
 }
-#container{
-    width:93.75%;
-    height:100px;
-    margin-right:10px;
-    float:left;
-}
+
 .child{
     float:left;
     margin-right:5px;
